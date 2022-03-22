@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\vetorDeCarros.exe
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\vetorDeCarros.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\vetorDeCarros.runtimeconfig.json
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\vetorDeCarros.dll
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\ref\vetorDeCarros.dll
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\bin\Debug\net6.0\vetorDeCarros.pdb
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.dll
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\ref\vetorDeCarros.dll
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.pdb
+C:\Users\Àlberto Barbòsa\source\repos\vetorDeCarros\vetorDeCarros\obj\Debug\net6.0\vetorDeCarros.genruntimeconfig.cache
